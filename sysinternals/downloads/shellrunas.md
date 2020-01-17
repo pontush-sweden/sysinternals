@@ -57,4 +57,4 @@ shellrunas \[/netonly\] &lt;*program*&gt; \[*arguments*\]**
 
 ## Getting Help
 
-If you have problems or questions, please visit the [Sysinternals Forum](https://forum.sysinternals.com).  
+If you have problems or questions, please visit the [Technet forums](https://social.technet.microsoft.com/Forums/en-US/home?category=sysinternals&$filter=alltypes&$sort=lastpostdesc).  
